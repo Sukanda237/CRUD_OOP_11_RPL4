@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HALAMAN INI DIBUAT OLEH RIZKY</h1>
+    <h1>INI HALAMAN HITUNG DIBUAT OLEH RIZKY</h1>
 </body>
 </html>
